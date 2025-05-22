@@ -143,8 +143,8 @@ All our projects are released under licenses that allow free use with proper cre
 
 ## 📲 Social Media & Contact
 
-- 📸 Instagram: [@xprit.robotics](https://www.instagram.com/xprit_robotics/)  
-- ▶️ YouTube: [@xprit_robotics](https://youtube.com/@xprit_robotics)  
+- 📸 Instagram: [@xprit_._robotics](https://www.instagram.com/xprit_robotics/)  
+- ▶️ YouTube: [@xprit robotics](https://youtube.com/@xprit_robotics)  
 - 📧 Contact: xpritrobotics@gmail.com
 
 ---
