@@ -95,4 +95,6 @@ KAISEI/
 ├── docs/
 │   └── [Assembly guides, coming soon]
 └── stl/
-    └── [3D printable files]
+│   └── [3D printable files]
+└── SLDPRT/
+    └── [Solid Works Parts]
