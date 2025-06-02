@@ -82,25 +82,6 @@ Each board includes:
 - STL for protective casing  
 - Schematics + technical documentation
 
----
-
-## 📦 Repository Structure
-
-XpriT-Robots-OS/  
-├── Minisumo/  
-│ ├── Phantom/  
-│ ├── Flash-X/  
-│ └── Titan-Core/  
-├── Boards/  
-│ ├── XP-MiniCore/  
-│ └── XP-PowerShield/  
-├── 3D Models/  
-├── Schematics/  
-├── SRC/  
-├── Images/  
-├── Videos/  
-└── README.md  
-
 
 ---
 
