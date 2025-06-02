@@ -45,9 +45,9 @@ We are a group of young people from Misiones, Argentina, who found in robotics a
 
 ---
 
-### ⚔️ **XT_Kaisei** — Precision in Minisumo Form
+### ⚔️ **XT Kaisei** — Precision in Minisumo Form
 
-> Designed for **both beginners and professionals**, XT_Kaisei delivers reliable performance in a compact and modular build. Its balanced sensor array and flexible motor support allow for efficient targeting, quick response, and seamless upgrades.  
+> Designed for **both beginners and professionals**, XT Kaisei delivers reliable performance in a compact and modular build. Its balanced sensor array and flexible motor support allow for efficient targeting, quick response, and seamless upgrades.  
 > Includes:  
 > - 98×98 mm 3D printable chassis  
 > - 5x JS40F object sensors + 2x QTR1A line sensors  
