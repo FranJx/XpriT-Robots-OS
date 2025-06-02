@@ -45,13 +45,14 @@ We are a group of young people from Misiones, Argentina, who found in robotics a
 
 ---
 
-### ⚡ **Flash-X** — Speed in Robot Form
+### ⚔️ **XT_Kaisei** — Precision in Minisumo Form
 
-> Designed to offer **the greatest show for the audience**, Flash-X races across the tatami with overwhelming acceleration. Its lightweight, symmetrical frame allows for fluid frontal attacks and evasive maneuvers.  
-> Includes:
-> - Aerodynamic 3D chassis  
-> - Predictive evasion algorithm  
-> - Tournament demonstrations
+> Designed for **both beginners and professionals**, XT_Kaisei delivers reliable performance in a compact and modular build. Its balanced sensor array and flexible motor support allow for efficient targeting, quick response, and seamless upgrades.  
+> Includes:  
+> - 98×98 mm 3D printable chassis  
+> - 5x JS40F object sensors + 2x QTR1A line sensors  
+> - Dual motor brackets for 050 or N20 formats
+
 
 ---
 
