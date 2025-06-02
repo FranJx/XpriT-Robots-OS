@@ -59,7 +59,6 @@ Programming depends on the chosen microcontroller. KAISEI supports:
 
 **Common Examples**:
 - Enemy detection with JS40F
-- Line following
 - Attack and retreat strategies
 
 > Example files will be available soon in the `/code/` folder.
