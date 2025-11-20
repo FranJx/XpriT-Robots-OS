@@ -300,10 +300,9 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📚 Referencias y Recursos
 
-- [Reglas Oficiales Mini Sumo](http://robogames.org/)
-- [Arduino Documentation](https://www.arduino.cc/en/Guide)
-- [Comunidad de Robótica XpriT](https://xpritrobotics.org)
-- [Tutoriales de Robótica Autónoma](https://robotics.org)
+- [Pagina Oficial de XpriT Robotics](http://xprit-robotics.com/)
+- [Pagina de Instagram p/ consultas](https://www.instagram.com/xprit_robotics/)
+
 
 ## 📊 Bill of Materials (BOM)
 
